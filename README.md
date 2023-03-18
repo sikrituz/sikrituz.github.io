@@ -1,7 +1,17 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <title>Словарь терминов</title>
+        <title>Котик</title>
     </head>
-    <body background="images/photo_5470039553726333222_y.jpg"  align="center" width="250" height="150">
+   
+<div class="verticalcenter">
+    <img src="images/photo_5470039553726333222_y.jpg" alt="отцентрированное изображение" />
+</div>
 
+<style>
+.verticalcenter {
+    display: table-cell;
+    height: 400px;
+    vertical-align: middle;
+}
+</style>
